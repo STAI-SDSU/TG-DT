@@ -16,4 +16,8 @@ You can install them via:
 ```bash
 pip install -r requirements.txt
 
+Example usage:
+
+```
+python tg_dt.py --env cheetah_dir
 
