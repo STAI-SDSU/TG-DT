@@ -15,11 +15,13 @@ You can install them via:
 
 ```bash
 pip install -r requirements.txt
-'''
 
-Example usage:
 
-```
+
+## 🚀 How to Run
+
+To use the TG-DT model on the `cheetah_dir` environment, run:
+
+```bash
 python tg_dt.py --env cheetah_dir
-'''
 
