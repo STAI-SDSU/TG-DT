@@ -6,7 +6,7 @@ This repository contains the implementation of **TG-DT** (Trajectory-Guided Deci
 
 Ensure you have the required dependencies installed. The primary ones include:
 
-- Python 3.7+
+- Python 3.10
 - PyTorch
 - Gymnasium (or OpenAI Gym)
 - NumPy
